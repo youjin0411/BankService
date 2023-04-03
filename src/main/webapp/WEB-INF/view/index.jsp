@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Bare - Start Bootstrap Template</title>
+    <title>금융서비스</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Core theme CSS (includes Bootstrap)-->
@@ -43,7 +43,7 @@
             <p style="font-size: 0.4vw; width: 10vw;">365일 어디서나 즐기는 간편 인터넷 뱅킹 서비스</p>
         </div>
         <div style="display: grid; grid-template-columns: 7vw 7vw;">
-            <button style="font-size: 1vw; border: none; border-radius: 2vw; font-weight: bold; background-color: #E77932; padding: 0.7vw;">뱅킹 로그인</button>
+            <button onclick="location.href='/login'" style="font-size: 1vw; border: none; border-radius: 2vw; font-weight: bold; background-color: #E77932; padding: 0.7vw;">뱅킹 로그인</button>
             <button style="font-size: 1vw; border: none; border-radius: 2vw;  font-weight: bold; background-color: #7B7C81;">서비스 소개</button>
         </div>
     </div>
